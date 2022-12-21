@@ -1,0 +1,17 @@
+{
+    "remote.SSH.remotePlatform": {
+        "ec2-34-199-46-169.compute-1.amazonaws.com": "linux",
+        "ec2-3-85-56-187.compute-1.amazonaws.com": "linux",
+        "ec2-44-208-100-74.compute-1.amazonaws.com": "linux",
+        "ec2-54-226-216-163.compute-1.amazonaws.com": "linux",
+        "ec2-44-209-182-7.compute-1.amazonaws.com": "linux",
+        "ec2-18-207-100-134.compute-1.amazonaws.com": "linux",
+        "ec2-3-84-220-142.compute-1.amazonaws.com": "linux"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "git.enableSmartCommit": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.sideBar.location": "right"
+}

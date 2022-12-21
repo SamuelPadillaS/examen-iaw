@@ -1,0 +1,55 @@
+2022-12-21 12:01:04.467 [info] Extension host agent started.
+2022-12-21 12:01:04.574 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2022-12-21 12:01:04.719 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2022-12-21 12:01:05.163 [info] [127.0.0.1][2dc19478][ManagementConnection] New connection established.
+2022-12-21 12:01:05.511 [info] [127.0.0.1][a81b9c9a][ExtensionHostConnection] New connection established.
+2022-12-21 12:01:05.516 [info] [127.0.0.1][a81b9c9a][ExtensionHostConnection] <1566> Launched Extension Host Process.
+2022-12-21 12:01:23.678 [info] [127.0.0.1][2dc19478][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 12:01:23.707 [info] [127.0.0.1][a81b9c9a][ExtensionHostConnection] <1566> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 12:01:23.708 [info] Last EH closed, waiting before shutting down
+2022-12-21 12:01:30.700 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 12:01:30.701 [info] Cancelling previous shutdown timeout
+2022-12-21 12:01:31.581 [info] [127.0.0.1][21ff2da8][ManagementConnection] New connection established.
+2022-12-21 12:01:31.931 [info] [127.0.0.1][6bb7ebdb][ExtensionHostConnection] New connection established.
+2022-12-21 12:01:31.956 [info] [127.0.0.1][6bb7ebdb][ExtensionHostConnection] <1707> Launched Extension Host Process.
+2022-12-21 12:06:30.701 [info] New EH opened, aborting shutdown
+2022-12-21 12:08:03.741 [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+2022-12-21 12:08:03.741 [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+2022-12-21 12:20:32.538 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-12-21 12:20:32.560 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2022-12-21 12:20:33.124 [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.467571d9-28fb-4f92-84f1-e02d97bdb760: ms-ceintl.vscode-language-pack-es
+2022-12-21 12:20:33.128 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.74.12140936
+2022-12-21 12:20:33.130 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2022-12-21 12:20:33.133 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2022-12-21 12:20:33.192 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2022-12-21 13:08:09.080 [info] [127.0.0.1][21ff2da8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 13:08:09.120 [info] [127.0.0.1][6bb7ebdb][ExtensionHostConnection] <1707> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 13:08:09.121 [info] Last EH closed, waiting before shutting down
+2022-12-21 13:08:36.969 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 13:08:36.969 [info] Cancelling previous shutdown timeout
+2022-12-21 13:08:37.513 [info] [127.0.0.1][640bcd23][ManagementConnection] New connection established.
+2022-12-21 13:08:37.774 [info] [127.0.0.1][04959a5c][ExtensionHostConnection] New connection established.
+2022-12-21 13:08:37.784 [info] [127.0.0.1][04959a5c][ExtensionHostConnection] <18473> Launched Extension Host Process.
+2022-12-21 13:08:47.138 [info] [127.0.0.1][640bcd23][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 13:08:47.156 [info] [127.0.0.1][04959a5c][ExtensionHostConnection] <18473> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 13:08:47.157 [info] Cancelling previous shutdown timeout
+2022-12-21 13:08:47.157 [info] Last EH closed, waiting before shutting down
+2022-12-21 13:08:51.705 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 13:08:51.705 [info] Cancelling previous shutdown timeout
+2022-12-21 13:08:52.210 [info] [127.0.0.1][71ad97d5][ManagementConnection] New connection established.
+2022-12-21 13:08:52.427 [info] [127.0.0.1][a5c958b8][ExtensionHostConnection] New connection established.
+2022-12-21 13:08:52.434 [info] [127.0.0.1][a5c958b8][ExtensionHostConnection] <18602> Launched Extension Host Process.
+2022-12-21 13:08:54.302 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)

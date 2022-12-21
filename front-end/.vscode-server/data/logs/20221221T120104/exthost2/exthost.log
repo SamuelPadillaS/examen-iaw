@@ -1,0 +1,40 @@
+2022-12-21 12:01:38.488 [info] Extension host with pid 1707 started
+2022-12-21 12:01:38.627 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock': Lock acquired.
+2022-12-21 12:01:38.907 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-21 12:01:39.268 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-21 12:01:39.268 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2022-12-21 12:01:40.084 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 12:01:40.084 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 12:01:40.085 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-21 12:01:40.085 [info] Eager extensions activated
+2022-12-21 12:05:22.018 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:properties'
+2022-12-21 12:08:03.739 [error] Error: ENOENT: no such file or directory, open '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock'
+2022-12-21 12:08:03.740 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock': The lock was lost unexpectedly.
+2022-12-21 12:08:03.740 [error] Error: ENOENT: no such file or directory, utime '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock'
+2022-12-21 12:08:03.740 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock': Could not update mtime.
+2022-12-21 12:08:39.900 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2022-12-21 13:02:32.364 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 13:02:32.364 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 13:02:32.366 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-21 13:02:33.231 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2022-12-21 13:02:33.231 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2022-12-21 13:02:33.324 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2022-12-21 13:02:33.533 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2022-12-21 13:02:33.534 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2022-12-21 13:02:33.535 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-21 13:02:33.541 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-21 13:02:33.541 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-21 13:02:33.541 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-21 13:06:02.477 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-21 13:06:02.478 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-21 13:06:02.502 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-21 13:06:02.502 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-21 13:06:02.502 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-21 13:06:04.803 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2022-12-21 13:06:04.804 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2022-12-21 13:06:04.820 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2022-12-21 13:06:04.820 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2022-12-21 13:06:04.820 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2022-12-21 13:08:09.079 [info] Extension host terminating: received terminate message from renderer
+2022-12-21 13:08:09.080 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/1b8190d38112c7f4cb4d2ad4823c0cf9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-21 13:08:09.110 [info] Extension host with pid 1707 exiting with code 0

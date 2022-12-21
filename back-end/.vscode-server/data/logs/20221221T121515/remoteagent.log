@@ -1,0 +1,89 @@
+2022-12-21 12:15:15.958 [info] Extension host agent started.
+2022-12-21 12:15:16.011 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2022-12-21 12:15:16.076 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2022-12-21 12:15:16.417 [info] [127.0.0.1][445f8b32][ManagementConnection] New connection established.
+2022-12-21 12:15:16.630 [info] [127.0.0.1][a0f20603][ExtensionHostConnection] New connection established.
+2022-12-21 12:15:16.636 [info] [127.0.0.1][a0f20603][ExtensionHostConnection] <1584> Launched Extension Host Process.
+2022-12-21 12:16:55.641 [info] [127.0.0.1][445f8b32][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 12:16:55.673 [info] [127.0.0.1][a0f20603][ExtensionHostConnection] <1584> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 12:16:55.673 [info] Last EH closed, waiting before shutting down
+2022-12-21 12:17:01.807 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 12:17:01.807 [info] Cancelling previous shutdown timeout
+2022-12-21 12:17:02.392 [info] [127.0.0.1][6cfaf69b][ManagementConnection] New connection established.
+2022-12-21 12:17:02.628 [info] [127.0.0.1][b92414e2][ExtensionHostConnection] New connection established.
+2022-12-21 12:17:02.639 [info] [127.0.0.1][b92414e2][ExtensionHostConnection] <1737> Launched Extension Host Process.
+2022-12-21 12:17:04.625 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-21 12:18:35.821 [info] [127.0.0.1][6cfaf69b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 12:18:35.842 [info] [127.0.0.1][b92414e2][ExtensionHostConnection] <1737> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 12:18:35.842 [info] Cancelling previous shutdown timeout
+2022-12-21 12:18:35.842 [info] Last EH closed, waiting before shutting down
+2022-12-21 12:18:41.024 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 12:18:41.025 [info] Cancelling previous shutdown timeout
+2022-12-21 12:18:41.590 [info] [127.0.0.1][dc5ba04d][ManagementConnection] New connection established.
+2022-12-21 12:18:41.821 [info] [127.0.0.1][827de81f][ExtensionHostConnection] New connection established.
+2022-12-21 12:18:41.829 [info] [127.0.0.1][827de81f][ExtensionHostConnection] <1901> Launched Extension Host Process.
+2022-12-21 12:18:43.710 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/ubuntu/.vscode-server/bin/5235c6bb189b60b01b1f49062f4ffa42384f8c91/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-21 12:21:42.471 [info] [127.0.0.1][dc5ba04d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 12:21:42.488 [info] [127.0.0.1][827de81f][ExtensionHostConnection] <1901> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 12:21:42.488 [info] Cancelling previous shutdown timeout
+2022-12-21 12:21:42.488 [info] Last EH closed, waiting before shutting down
+2022-12-21 12:22:22.662 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 12:22:22.662 [info] Cancelling previous shutdown timeout
+2022-12-21 12:22:23.255 [info] [127.0.0.1][47b95932][ManagementConnection] New connection established.
+2022-12-21 12:22:23.504 [info] [127.0.0.1][08fff81e][ExtensionHostConnection] New connection established.
+2022-12-21 12:22:23.512 [info] [127.0.0.1][08fff81e][ExtensionHostConnection] <2067> Launched Extension Host Process.
+2022-12-21 12:22:30.339 [info] [127.0.0.1][47b95932][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 12:22:30.360 [info] [127.0.0.1][08fff81e][ExtensionHostConnection] <2067> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 12:22:30.361 [info] Cancelling previous shutdown timeout
+2022-12-21 12:22:30.361 [info] Last EH closed, waiting before shutting down
+2022-12-21 12:22:34.949 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 12:22:34.949 [info] Cancelling previous shutdown timeout
+2022-12-21 12:22:35.767 [info] [127.0.0.1][514251b8][ManagementConnection] New connection established.
+2022-12-21 12:22:36.020 [info] [127.0.0.1][b403b3cc][ExtensionHostConnection] New connection established.
+2022-12-21 12:22:36.025 [info] [127.0.0.1][b403b3cc][ExtensionHostConnection] <2199> Launched Extension Host Process.
+2022-12-21 12:27:34.950 [info] New EH opened, aborting shutdown
+2022-12-21 12:41:49.659 [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/ubuntu)
+2022-12-21 12:41:49.659 [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+2022-12-21 13:09:34.220 [info] [127.0.0.1][514251b8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 13:09:34.247 [info] [127.0.0.1][b403b3cc][ExtensionHostConnection] <2199> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 13:09:34.247 [info] Last EH closed, waiting before shutting down
+2022-12-21 13:09:54.817 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 13:09:54.817 [info] Cancelling previous shutdown timeout
+2022-12-21 13:09:55.749 [info] [127.0.0.1][69e71b56][ManagementConnection] New connection established.
+2022-12-21 13:09:56.018 [info] [127.0.0.1][269240e8][ExtensionHostConnection] New connection established.
+2022-12-21 13:09:56.025 [info] [127.0.0.1][269240e8][ExtensionHostConnection] <20508> Launched Extension Host Process.
+2022-12-21 13:10:12.081 [info] [127.0.0.1][69e71b56][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-21 13:10:12.100 [info] [127.0.0.1][269240e8][ExtensionHostConnection] <20508> Extension Host Process exited with code: 0, signal: null.
+2022-12-21 13:10:12.100 [info] Cancelling previous shutdown timeout
+2022-12-21 13:10:12.100 [info] Last EH closed, waiting before shutting down
+2022-12-21 13:10:20.082 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-21 13:10:20.082 [info] Cancelling previous shutdown timeout
+2022-12-21 13:10:20.849 [info] [127.0.0.1][8783b99d][ManagementConnection] New connection established.
+2022-12-21 13:10:21.118 [info] [127.0.0.1][76ad5b2f][ExtensionHostConnection] New connection established.
+2022-12-21 13:10:21.124 [info] [127.0.0.1][76ad5b2f][ExtensionHostConnection] <20638> Launched Extension Host Process.
